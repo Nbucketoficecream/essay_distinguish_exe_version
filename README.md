@@ -1,0 +1,2 @@
+# essay_distinguish_exe_version
+using auto_py_to_exe
